@@ -45,7 +45,7 @@ Hammerspoon脚本
 
 5. 用文本编辑打开该脚本，将
 ```lua
-loginURL = '<https://xha.ouc.edu.cn:802/eportal/portal/login?user_account=你的用户名&user_password=你的密码>'
+loginURL = 'https://xha.ouc.edu.cn:802/eportal/portal/login?user_account=你的用户名&user_password=你的密码'
 ```
 中的用户名和密码修改为自己的并保存
 
