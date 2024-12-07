@@ -57,7 +57,7 @@ Hammerspoon脚本
 
 快捷指令 + 自动化
 
-指路这位大佬的repo：<https://github.com/ladeng07/OUC-autoLogin>
+指路大佬ladeng07的repo：[点我跳转](https://github.com/ladeng07/OUC-autoLogin)
 
 
 
