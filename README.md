@@ -26,7 +26,7 @@ The Ultimate Guide to Multi-Platform OUC Campus Network Authentication
 
 1. 下载本仓库Windows文件夹下的脚本xha_wifi_login.ps1和计划程序login_task.xml
 2. 将该脚本放置在C:\Scripts\目录下，没有这个目录就新建一个
-3. 用记事本打开脚本，将里面的$username$和$password$替换成自己的
+3. 用记事本打开脚本，将里面的`username`和`password`替换成自己的
 3. 按Win+S键搜索任务计划程序并打开
 4. 右侧边栏点击导入任务，选择刚刚下载的login_task.xml文件
 5. 完成导入，脚本会在开机或联网时自动运行
