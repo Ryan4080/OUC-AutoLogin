@@ -18,7 +18,7 @@ The Ultimate Guide to Multi-Platform OUC Campus Network Authentication
 ## 多端实现
 1. [Windows](#Windows)
 2. [macOS](#macOS)
-3. [iOS&iPadOS](#iOSiPadOS)
+3. [iOS & iPadOS](#iOSiPadOS)
 
 ### Windows
 
@@ -57,7 +57,7 @@ loginURL = 'https://xha.ouc.edu.cn:802/eportal/portal/login?user_account=你的�
 
 10. 可以在Hammerspoon的Preference设置里添加开机启动，脚本会在开机或联网时自动运行
 
-### iOS&iPadOS
+### iOS & iPadOS
 
 快捷指令 + 自动化
 
