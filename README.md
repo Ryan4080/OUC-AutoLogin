@@ -39,7 +39,7 @@ Hammerspoon 脚本
 2. 下载本仓库 macOS 文件夹下的脚本 `init.lua`。
 3. 回到访达，按 `cmd+shift+G` 键前往目录 `~/.hammerspoon/`。
 4. 将脚本放入该目录，若有同名文件则覆盖。
-5. 用文本编辑器打开该脚本，将以下 `url` 字段中的用户名和密码修改为自己的，并保存：
+5. 用文本编辑器打开该脚本，将以下 url 字段中的用户名和密码修改为自己的，并保存：
     ```lua
     loginURL = 'https://xha.ouc.edu.cn:802/eportal/portal/login?user_account=你的用户名&user_password=你的密码'
     ```
