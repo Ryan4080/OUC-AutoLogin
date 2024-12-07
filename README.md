@@ -18,7 +18,7 @@ The Ultimate Guide to Multi-Platform OUC Campus Network Authentication
 ## 多端实现
 1. [Windows](#Windows)
 2. [macOS](#macOS)
-3. [iOS & iPadOS](#iOS  iPadOS)
+3. [iOS & iPadOS](#iOS iPadOS)
 
 ### Windows
 
