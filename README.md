@@ -29,7 +29,8 @@ The Ultimate Guide to Multi-Platform OUC Campus Network Authentication
 3. 用记事本打开脚本文件，将里面的 `username` 和 `password` 替换成自己的账号和密码。
 4. 按 `Win+S` 键搜索任务计划程序并打开。
 5. 右侧边栏点击“导入任务”，选择刚刚下载的 `login_task.xml` 文件。
-6. 完成导入后，脚本会在开机或联网时自动运行。
+6. 需要在选择用户那一栏选择自己当前登录的用户
+7. 完成导入后，脚本会在开机或联网时自动运行。
 
 ### macOS
 
